@@ -1,8 +1,9 @@
-// REDUX 4 STEPS
-// 1. Store requires: Reducer & State
-// 2. Reducer requires: State & Action
-// 3. Subscribe - Listens for the store to change
-// 4. Dispatch action - Do the action
+REDUX 4 STEPS
+
+1. Store requires: Reducer & State
+2. Reducer requires: State & Action
+3. Subscribe - Listens for the store to change
+4. Dispatch action - Do the action
 
 ```javascript
 import React, { Component } from "react";
